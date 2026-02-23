@@ -78,9 +78,9 @@
 
 |------|---------|
 
-| Week 1 | Feb 8-10 (3 commits) |
+| Week 1 | Feb 10-12 (3 commits) |
 
-| Week 2 | Feb 11-14 (3 commits) |
+| Week 2 | Feb 12-15 (3 commits) |
 
 | Week 3 | Feb 15-18 (3 commits) |
 
