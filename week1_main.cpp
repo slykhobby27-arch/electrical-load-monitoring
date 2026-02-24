@@ -1,7 +1,7 @@
 /*
  * ELECTRICAL LOAD MONITORING SYSTEM
- * Author: ENOCH TETTEH KWABENA
- * Index: 01240720D
+ * Author:AKOSA OFOSU GYEABOUR SYLVESTER
+ * Index: 01242131D
  * Course: EEE 227
  * Week 1: Basic Structure and Appliance Class
  * Date: February 10, 2026
